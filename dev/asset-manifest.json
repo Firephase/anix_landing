@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anix_landing/dev/static/css/main.48402225.css",
-    "main.js": "/anix_landing/dev/static/js/main.a355d4ff.js",
+    "main.js": "/anix_landing/dev/static/js/main.5a8e5608.js",
     "static/css/663.acb38cc5.chunk.css": "/anix_landing/dev/static/css/663.acb38cc5.chunk.css",
     "static/js/663.7ce519c1.chunk.js": "/anix_landing/dev/static/js/663.7ce519c1.chunk.js",
     "static/js/204.95e88743.chunk.js": "/anix_landing/dev/static/js/204.95e88743.chunk.js",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.48402225.css",
-    "static/js/main.a355d4ff.js"
+    "static/js/main.5a8e5608.js"
   ]
 }
