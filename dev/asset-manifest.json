@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/anix_landing/dev/static/css/main.48402225.css",
-    "main.js": "/anix_landing/dev/static/js/main.e1c05d68.js",
+    "main.js": "/anix_landing/dev/static/js/main.2d5ca358.js",
     "static/css/663.acb38cc5.chunk.css": "/anix_landing/dev/static/css/663.acb38cc5.chunk.css",
-    "static/js/663.7ce519c1.chunk.js": "/anix_landing/dev/static/js/663.7ce519c1.chunk.js",
-    "static/js/204.95e88743.chunk.js": "/anix_landing/dev/static/js/204.95e88743.chunk.js",
+    "static/js/663.844ba145.chunk.js": "/anix_landing/dev/static/js/663.844ba145.chunk.js",
+    "static/js/82.cdbdc812.chunk.js": "/anix_landing/dev/static/js/82.cdbdc812.chunk.js",
+    "static/js/265.bbf517b1.chunk.js": "/anix_landing/dev/static/js/265.bbf517b1.chunk.js",
+    "static/js/204.77aa8264.chunk.js": "/anix_landing/dev/static/js/204.77aa8264.chunk.js",
     "static/media/3.png": "/anix_landing/dev/static/media/3.95d850bfd9557355a532.png",
     "static/media/hse-hero.jpg": "/anix_landing/dev/static/media/hse-hero.98902ec35d115bd2829e.jpg",
     "static/media/alexandra-andrey-anix.webp": "/anix_landing/dev/static/media/alexandra-andrey-anix.3aa3b1342754067831aa.webp",
@@ -36,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.48402225.css",
-    "static/js/main.e1c05d68.js"
+    "static/js/main.2d5ca358.js"
   ]
 }
