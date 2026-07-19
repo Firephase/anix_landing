@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anix_landing/dev/static/css/main.4ffe28ee.css",
-    "main.js": "/anix_landing/dev/static/js/main.d64328e1.js",
+    "main.js": "/anix_landing/dev/static/js/main.fd6883b1.js",
     "static/js/727.528ec5f6.chunk.js": "/anix_landing/dev/static/js/727.528ec5f6.chunk.js",
     "static/js/84.163fd121.chunk.js": "/anix_landing/dev/static/js/84.163fd121.chunk.js",
     "static/css/552.ec4efaf1.chunk.css": "/anix_landing/dev/static/css/552.ec4efaf1.chunk.css",
@@ -13,7 +13,7 @@
     "static/css/75.0a9e14e0.chunk.css": "/anix_landing/dev/static/css/75.0a9e14e0.chunk.css",
     "static/js/75.5aafae57.chunk.js": "/anix_landing/dev/static/js/75.5aafae57.chunk.js",
     "static/css/954.f19b9fb0.chunk.css": "/anix_landing/dev/static/css/954.f19b9fb0.chunk.css",
-    "static/js/954.2898a0bd.chunk.js": "/anix_landing/dev/static/js/954.2898a0bd.chunk.js",
+    "static/js/954.a80a3379.chunk.js": "/anix_landing/dev/static/js/954.a80a3379.chunk.js",
     "static/css/899.b4957db5.chunk.css": "/anix_landing/dev/static/css/899.b4957db5.chunk.css",
     "static/js/899.9519e3f1.chunk.js": "/anix_landing/dev/static/js/899.9519e3f1.chunk.js",
     "static/css/705.33ee30c2.chunk.css": "/anix_landing/dev/static/css/705.33ee30c2.chunk.css",
@@ -65,6 +65,6 @@
   },
   "entrypoints": [
     "static/css/main.4ffe28ee.css",
-    "static/js/main.d64328e1.js"
+    "static/js/main.fd6883b1.js"
   ]
 }
